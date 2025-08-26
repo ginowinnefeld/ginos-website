@@ -1,0 +1,27 @@
+{
+    "name": "Gino Winnefeld - Growth Leader",
+    "short_name": "Gino Winnefeld",
+    "description": "Growth leader in Web3 & AI. Scaling t3rn from 0 to 100K users in 6 months.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#007AFF",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><circle cx='96' cy='96' r='80' fill='%23007AFF'/><text x='96' y='96' font-family='SF Pro Display,Inter,sans-serif' font-size='64' font-weight='800' fill='white' text-anchor='middle' dominant-baseline='central'>G</text></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><circle cx='256' cy='256' r='200' fill='%23007AFF'/><text x='256' y='256' font-family='SF Pro Display,Inter,sans-serif' font-size='180' font-weight='800' fill='white' text-anchor='middle' dominant-baseline='central'>G</text></svg>",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ],
+    "categories": ["business", "productivity"],
+    "lang": "en",
+    "scope": "/",
+    "id": "gino-winnefeld-portfolio"
+}

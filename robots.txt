@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://website-jwgtr29z1-ginowinnefeld-gmailcoms-projects.vercel.app/sitemap.xml
